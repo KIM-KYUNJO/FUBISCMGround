@@ -23,3 +23,4 @@ browseMenus.push(
   {name:'메밀국수',emoji:'🥢',type:'시원하고 산뜻하게'}
 );
 renderBrowse();
+document.title='오늘은 뭐 먹지 — 오늘 점심, 고민 끝';document.querySelectorAll('.brand span:last-child').forEach(el=>el.textContent='오늘은 뭐 먹지');document.querySelectorAll('footer span:first-child').forEach(el=>el.textContent='© 2026 오늘은 뭐 먹지');
