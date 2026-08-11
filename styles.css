@@ -4,3 +4,4 @@
  .hero-visual{background-image:url('mascot-lunch.png');background-repeat:no-repeat;background-position:center 58%;background-size:contain}.hero-visual .bowl,.hero-visual .bowl-shadow,.hero-visual .stamp,.hero-visual .leaf,.hero-visual .visual-caption{display:none}.hero-visual .sun-shape{opacity:.55}
  .hero-visual{background-image:url('mascot-lunch-window.png');background-size:cover;background-position:center 48%;}
  .hero-visual .sun-shape{display:none}
+ .hero-visual{background-image:url('mascot-lunch-window-wide.png');background-size:cover;background-position:center center}
